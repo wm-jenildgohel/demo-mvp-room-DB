@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Demo MVP &amp; DB</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="login">Login</string>
+    <string name="new_here_signup_now">New Here ? Signup Now !</string>
+    <string name="signup_here">Signup Here</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">enter password</string>
+    <string name="retype_password">re-enter password</string>
+    <string name="signup">signup</string>
+    <string name="exisisting_user_login_now">already user ? Login here</string>
+    <string name="logout">Logout</string>
+</resources>
